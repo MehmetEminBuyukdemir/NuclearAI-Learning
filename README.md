@@ -1,4 +1,4 @@
-# NuclearAI-Learning
+# NuclearAI
 NuclearAI üzerindeki öğrenim sürecim ve projelerim.
 
 # KORELASYON NEDİR?
